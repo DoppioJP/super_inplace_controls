@@ -1,3 +1,8 @@
+This forked version deals with some issues while ussing in place controls, i.e. it can be used in ajax-ish forms. More details available later if at all as I tend to move this project into Rails 3 style, so most of that code will die.
+
+
+--- Original README ---
+
 SuperInPlaceControls: An Open Source Project by Flvorful
 ===============
 Author: Jake Varghese (Flvorful.com)
@@ -13,3 +18,5 @@ Docs for Flvorful::CustomHelpers
 Docs for Flvorful::InPlaceControls::ControllerMethods
 
 Docs for Flvorful::InPlaceControls::HelperMethods
+
+http://os.flvorful.com/super_in_place_controls/docs/index
